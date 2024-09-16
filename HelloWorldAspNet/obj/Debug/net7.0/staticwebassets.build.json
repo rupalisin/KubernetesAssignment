@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oVVBUwtRdb3BrJp2QAp4EWRPSvILeOMQN18KDnj1174=",
+  "Source": "HelloWorldAspNet",
+  "BasePath": "_content/HelloWorldAspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
